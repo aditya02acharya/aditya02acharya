@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Researcher and Data Scientist in human-computer interaction, specializing in agent-based cognitive modelling and decision making. Expert in machine learning, with a focus on reinforcement learning and deep learning, as applied to human-AI interaction and behavioural analytics.
+
+- 🔭 I’m currently working on MARL based models for Human-Machine Teaming. I am also collaborating with a Health-Tech startup [Dexter](https://dexter.software/) to implement a Learning Health System.
+
+
+
 <!--
 **aditya02acharya/aditya02acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
