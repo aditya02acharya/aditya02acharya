@@ -4,7 +4,10 @@ I'm a Researcher and Data Scientist in human-computer interaction, specializing 
 
 - 🔭 I’m currently working on MARL based models for Human-Machine Teaming. I am also collaborating with a Health-Tech startup [Dexter](https://dexter.software/) to implement a Learning Health System.
 
+#### Sample Work:
 
+![Demo1](assets/image1.gif)
+![Demo2](assets/image2.gif)
 
 <!--
 **aditya02acharya/aditya02acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
