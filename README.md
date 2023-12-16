@@ -6,8 +6,8 @@ I'm a Researcher and Data Scientist in human-computer interaction, specializing 
 
 #### Sample Work:
 
-![Demo1](assets/image1.gif)
-![Demo2](assets/image2.gif)
+![[Demo1](https://github.com/aditya02acharya/aditya02acharya/blob/main/assets/image1.gif)](https://github.com/aditya02acharya/TypingAgent)
+![[Demo2](https://github.com/aditya02acharya/aditya02acharya/blob/main/assets/image2.gif)](https://github.com/aditya02acharya/RNN_Attention_Classification)
 
 <!--
 **aditya02acharya/aditya02acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
