@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm a Researcher and Data Scientist in human-computer interaction, specializing in agent-based modelling and decision making. Expert in reinforcement learning and deep learning, as applied to human-AI interaction and behavioural analytics.
+I'm a Researcher and Data Scientist in human-computer interaction. Expert in reinforcement learning and deep learning, as applied to human-AI interaction and behavioural analytics.
 
 - 🔭 I’m currently working on MARL based models for Human-Machine Teaming. I am also collaborating with a Health-Tech startup [Dexter](https://dexter.software/) to implement a Learning Health System.
-- My recent interest have been in the field of tiny machine learning. I'm exploring questions like how to develop ML software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below. 
 
 #### Sample Work:
 
