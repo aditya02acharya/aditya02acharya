@@ -4,7 +4,7 @@ I'm a Researcher and Data Scientist in human-computer interaction. Expert in rei
 
 Skills:
 
-- My preferred analytical languages is Python. I'm currently exploring Rust from a performance and safety view. 
+- My preferred analytical language is Python. I'm currently exploring Rust from a performance and safety view. 
 - I use SQL, Polars and PySpark for data manipulation, React for dasboarding and data visualisation.
 - Communication documents are written in Latex or Markdown.
 
