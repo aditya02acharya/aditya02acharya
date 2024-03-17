@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a Researcher and Data Scientist in human-computer interaction and healthcare data science. Expert in machine learning and data analytics for decision making.
-
-- 🔭 I’m currently working for a Health-Tech start-up [Dexter](https://dexter.software/), which is an enterprise entity of University of Birmingham, to implement a Learning Health System.
+I'm a Researcher and Data Scientist in human-computer interaction. Expert in reinforcement learning and data analytics for decision making.
 
 Skills:
 
