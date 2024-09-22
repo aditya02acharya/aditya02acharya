@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Researcher and Data Scientist in human-computer interaction. Expert in reinforcement learning and data analytics for decision making.
+I'm a Researcher and Data Scientist, my work combines Data Analytics, Human–Computer Interaction (HCI), and Artificial Intelligence (AI), leading to several projects in diverse areas and topics.
 
 Skills:
 
