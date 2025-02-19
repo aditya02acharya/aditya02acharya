@@ -4,7 +4,7 @@ I'm a Researcher and Data Scientist, my work combines Data Analytics, Human–Co
 
 Skills:
 
-- My preferred analytical language is Python. I'm currently exploring Rust from a performance and safety view. 
+- My preferred analytical language is Python. I'm currently exploring Go, mostly because i'm writing lot of backend web api's recently to interact with LLM's.  
 - I use SQL, Polars and PySpark for data manipulation, React for dasboarding and data visualisation.
 - Communication documents are written in Latex or Markdown.
 
