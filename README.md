@@ -1,24 +1,53 @@
-### Hi there 👋
+# 👋 Hi there
 
-I'm a Researcher and Data Scientist, my work combines Data Analytics, Human–Computer Interaction (HCI), and Artificial Intelligence (AI), leading to several projects in diverse areas and topics.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acharyaaditya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Aditya02)
 
-Skills:
+### 👨‍💻 About Me
 
-- My preferred analytical language is Python. I'm currently exploring Go, mostly because i'm writing lot of backend web api's recently to interact with LLM's.  
-- I use SQL, Polars and PySpark for data manipulation, React for dasboarding and data visualisation.
-- Communication documents are written in Latex or Markdown.
+I'm a Machine Learning Researcher specializing in Reinforcement Learning and Human–Computer Interaction (HCI). My expertise lies in building sophisticated Multi-Agent systems for human-machine teaming. Recently I have been dabbling a lot with RAG (Retrieval-Augmented Generation) systems and Conversational AI systems.
 
-<!--
-**aditya02acharya/aditya02acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-121D33?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🤖 Specializations
+
+- **Reinforcement Learning**
+  - Deep Q-Learning (DQN)
+  - Proximal Policy Optimization (PPO)
+  - Actor-Critic Methods
+  - Multi-Agent RL Systems
+
+- **GenAI & RAG Systems**
+  - Large Language Models (LLMs)
+  - Vector Databases
+  - Semantic Search
+  - Prompt Engineering
+  - Knowledge Retrieval Systems
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya02acharya&show_icons=true&theme=synthwave)
+
+### 🌟 Featured Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aditya02acharya&repo=TypingAgent&theme=synthwave)](https://github.com/aditya02acharya/TypingAgent)
+
+
+### 🎓 Research & Publications
+
+- [Human-Machine Cooperation through Human-Like Visual Search Model](https://openreview.net/pdf?id=soHJPxY3AA), [CoCoMARL 2024](https://sites.google.com/view/cocomarl-2024/accepted-papers)
+- 
+
+### ⚡ Fun fact
+
+I love balancing cartpole while my coffee brews - both require patience and optimal parameters! ☕🤖
+
+---
