@@ -45,7 +45,7 @@ I'm a Machine Learning Researcher specializing in Reinforcement Learning and Hum
 ### 🎓 Research & Publications
 
 - [Human-Machine Cooperation through Human-Like Visual Search Model](https://openreview.net/pdf?id=soHJPxY3AA), [CoCoMARL 2024](https://sites.google.com/view/cocomarl-2024/accepted-papers)
-- 
+- Full List [Google Scholar](https://scholar.google.com/citations?user=bHNM03gAAAAJ&hl=en)
 
 ### ⚡ Fun fact
 
