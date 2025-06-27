@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Machine Learning Researcher specializing in Reinforcement Learning and Human–Computer Interaction (HCI). My expertise lies in building sophisticated Multi-Agent systems for human-machine teaming. Recently I have been dabbling a lot with RAG (Retrieval-Augmented Generation) systems and Conversational AI systems.
+I'm a Machine Learning Researcher specializing in Reinforcement Learning and Human–Computer Interaction (HCI). My expertise lies in building sophisticated Multi-Agent systems for human-machine teaming. Recently I have been dabbling a lot with social dilemma problems like Stag-Hunt and CleanUP.
 
 
 ### 🛠️ Technologies & Tools
@@ -30,7 +30,6 @@ I'm a Machine Learning Researcher specializing in Reinforcement Learning and Hum
   - Large Language Models (LLMs)
   - Vector Databases
   - Semantic Search
-  - Prompt Engineering
   - Knowledge Retrieval Systems
 
 ### 📊 GitHub Stats
